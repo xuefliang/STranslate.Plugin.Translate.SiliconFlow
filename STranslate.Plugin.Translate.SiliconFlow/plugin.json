@@ -1,0 +1,10 @@
+{
+  "PluginID": "a3b7c9d1e5f2a8b4c6d0e7f3a1b5c9d2",
+  "Name": "SiliconFlow",
+  "Description": "Official SiliconFlow plugin for STranslate",
+  "Author": "zggsong",
+  "Version": "1.0.0",
+  "Website": "https://github.com/STranslate/STranslate.Plugin.Translate.SiliconFlow",
+  "ExecuteFileName": "STranslate.Plugin.Translate.SiliconFlow.dll",
+  "IconPath": "icon.png"
+}
